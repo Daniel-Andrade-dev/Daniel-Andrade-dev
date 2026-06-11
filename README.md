@@ -19,12 +19,12 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 👤 **Nome:** Daniel
+- 👤 **Nome:** Daniel Andrade Silva
 - 📍 **Localização:** São Paulo, Brasil 🇧🇷
 - 💼 **Objetivo:** Desenvolvedor Back-End em Formação
 - 🧠 **Linguagens:** Python, Ruby
 - 🗄️ **Bancos de Dados:** SQLite3, Oracle
-- 🔧 **Ferramentas:** Flask, Git, Linux
+- 🔧 **Ferramentas:** Flask, Git, Linux CachyOS
 - 🏗️ **Arquitetura:** Domain-Driven Design (DDD)
 
 ---
@@ -61,7 +61,7 @@
 
 ## 🎯 Foco
 
-> 🔒 **100% focado em Desenvolvimento Back-End** — construindo APIs robustas, arquitetura limpa e sistemas confiáveis.
+> 🔒 **100% focado em Desenvolvimento Back-End** — construindo APIs, arquitetura limpa e sistemas.
 
 ---
 
@@ -74,14 +74,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn"/>
-
-*"Primeiro, resolva o problema. Depois, escreva o código." — John Johnson*
-
-![Visualizações](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=e94560&style=flat-square&label=Visualizações+do+Perfil)
-
-</div>
