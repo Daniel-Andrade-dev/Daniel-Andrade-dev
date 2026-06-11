@@ -31,7 +31,6 @@
 
 - 🌱 Aprofundando conhecimentos em **arquitetura back-end** e **bancos de dados SQL**
 - 🏗️ Apaixonado por **código limpo**, **padrões DDD** e sistemas de fácil manutenção
-- 💬 Me pergunte sobre **Python**, **Flask REST APIs**, **SQLite3** ou **Git**
 
 ---
 
