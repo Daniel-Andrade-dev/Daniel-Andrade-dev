@@ -33,7 +33,10 @@
 - 🏗️ Apaixonado por **código limpo**, **padrões DDD** e sistemas de fácil manutenção
 
 ---
+## Stack principal
+- Python
 
+---
 ## 🛠️ Tecnologias
 
 <div align="center">
