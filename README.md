@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Olá,%20eu%20sou%20o%20Daniel%20👋&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-End%20em%20Formação%20%7C%20Python%20%7C%20Ruby%20%7C%20Flask%20%7C%20SQL&descAlignY=55&descAlign=50&descSize=18&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Olá,%20eu%20sou%20o%20Daniel%20👋&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Estudando%20Back-End%20em%20Formação%20%7C%20Python%20%7C%20Ruby%20%7C%20Flask%20%7C%20SQL&descAlignY=55&descAlign=50&descSize=18&descColor=a8b2d8" />
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Estudando+para+área+Back-End+🐍;Flask+%2B+SQLite3+%2B+Arquitetura+DDD;Sempre+aprendendo%2C+sempre+construindo+🔥)](https://git.io/typing-svg)
