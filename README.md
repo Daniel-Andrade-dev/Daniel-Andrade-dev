@@ -20,7 +20,7 @@
 ## 🧑‍💻 Sobre Mim
 
 - 👤 **Nome:** Daniel Andrade Silva
-- 📍 **Localização:** São Paulo, Brasil 🇧🇷
+- 📍 **Localização:** Presidente Prudente-SP, Brasil 🇧🇷
 - 💼 **Objetivo:** Desenvolvedor Back-End em Formação
 - 🧠 **Linguagens:** Python, Ruby
 - 🗄️ **Bancos de Dados:** SQLite3, Oracle
