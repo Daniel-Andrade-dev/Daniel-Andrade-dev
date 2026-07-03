@@ -25,12 +25,10 @@
 - 🧠 **Linguagens:** Python, Ruby
 - 🗄️ **Bancos de Dados:** SQLite3, Oracle
 - 🔧 **Ferramentas:** Flask, Git, Linux CachyOS
-- 🏗️ **Arquitetura:** Domain-Driven Design (DDD)
 
 ---
 
 - 🌱 Aprofundando conhecimentos em **arquitetura back-end** e **bancos de dados SQL**
-- 🏗️ Apaixonado por **código limpo**, **padrões DDD** e sistemas de fácil manutenção
 
 ---
 ## Stack principal
