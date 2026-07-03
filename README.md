@@ -10,7 +10,6 @@
 
 <!-- BADGES DE STATUS -->
 ![Status](https://img.shields.io/badge/Status-Estudando%20e%20construindo-e94560?style=flat-square&logo=statuspage&logoColor=white)
-![Aberto a](https://img.shields.io/badge/Aberto%20a-Vagas%20Júnior-0f3460?style=flat-square&logo=handshake&logoColor=white)
 ![Localização](https://img.shields.io/badge/📍%20Brasil-São%20Paulo-16213e?style=flat-square)
 
 </div>
