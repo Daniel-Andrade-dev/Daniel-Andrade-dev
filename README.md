@@ -4,8 +4,8 @@
 - 📍 **Localização:** Presidente Prudente-SP, Brasil 🇧🇷
 - 💼 **Objetivo:** Desenvolvedor Back-End em Formação
 - 🧠 **Linguagens:** Python, Ruby
-- 🗄️ **Bancos de Dados:** SQLite3, Oracle
-- 🔧 **Ferramentas:** Flask, Git, Linux CachyOS
+- 🗄️ **Bancos de Dados:** SQLite3
+- 🔧 **Ferramentas:** Flask, Git, Linux 
 
 ---
 
@@ -29,7 +29,6 @@
 
 ### Bancos de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Ferramentas e Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,7 +50,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel-Andrade-dev)
 
 </div>
 
