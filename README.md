@@ -1,4 +1,4 @@
-## 🧑‍💻 Sobre Mim
+🧑‍💻 Sobre Mim
 
 - 👤 **Nome:** Daniel Andrade Silva
 - 📍 **Localização:** Presidente Prudente-SP, Brasil 🇧🇷
