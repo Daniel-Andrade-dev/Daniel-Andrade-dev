@@ -20,14 +20,14 @@ Stack principal
 
 <div align="center">
 
-  Linguagens
+  ## Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-Frameworks e Bibliotecas
+ ### Frameworks e Bibliotecas
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Bancos de Dados
+ ### Bancos de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Ferramentas e Plataformas
