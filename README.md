@@ -46,16 +46,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Andrade-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
 
 ## 🎯 Foco
 
