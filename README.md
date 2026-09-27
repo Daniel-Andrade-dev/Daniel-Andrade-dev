@@ -1,58 +1,98 @@
-🧑‍💻 Sobre Mim
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+%F0%9F%91%8B;Desenvolvedor+Back-End+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Python+%2B+Flask+%2B+FastAPI+%F0%9F%90%8D" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+## 🧑‍💻 Sobre Mim
 
 - 👤 **Nome:** Daniel Andrade Silva
 - 📍 **Localização:** Presidente Prudente-SP, Brasil 🇧🇷
 - 💼 **Objetivo:** Desenvolvedor Back-End em Formação
 - 🧠 **Linguagens:** Python, Ruby
 - 🗄️ **Bancos de Dados:** SQLite3
-- 🔧 **Ferramentas:** Flask, Git, Linux 
+- 🔧 **Ferramentas:** Flask, FastAPI, Git, Linux
 
 ---
 
 - 🌱 Aprofundando conhecimentos em **arquitetura back-end** e **bancos de dados SQL**
 
 ---
-Stack principal
-- Python
+
+## 📌 Stack Principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60"/>
+</div>
 
 ---
-🛠️ Tecnologias
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-  ### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+### 🔙 Back-end
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,ruby" alt="Back-end Icons"/>
 
- ### Frameworks e Bibliotecas
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🗃️ Database
+<img src="https://skillicons.dev/icons?i=sqlite" alt="Database Icons"/>
 
- ### Bancos de Dados
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
- ### Ferramentas e Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧰 Ferramentas & Versionamento
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools Icons"/>
 
 </div>
 
 ---
 
-🎯 Foco
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Daniel-Andrade-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Andrade-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Andrade-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições (Snake Animation)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+> 💡 Para ativar essa animação no seu próprio perfil, configure a [GitHub Action do platane/snk](https://github.com/Platane/snk) no seu repositório.
+
+---
+
+## 🎯 Foco
 
 > 🔒 **100% focado em Desenvolvimento Back-End** — construindo APIs, arquitetura limpa e sistemas.
 
 ---
 
-📫 Contato
+## 📫 Contato
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel-Andrade-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-andrade-silva)
+<a href="https://github.com/Daniel-Andrade-dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/daniel-andrade-silva" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+</a>
 
 </div>
 
----
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Daniel-Andrade-dev&color=00FF9C&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Profile views"/>
+</div>
