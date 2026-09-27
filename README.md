@@ -59,17 +59,6 @@
 
 ---
 
-## 🐍 Contribuições (Snake Animation)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-> 💡 Para ativar essa animação no seu próprio perfil, configure a [GitHub Action do platane/snk](https://github.com/Platane/snk) no seu repositório.
-
----
 
 ## 🎯 Foco
 
