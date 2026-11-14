@@ -11,13 +11,14 @@
 - 👤 **Nome:** Daniel Andrade Silva
 - 📍 **Localização:** Presidente Prudente-SP, Brasil 🇧🇷
 - 💼 **Objetivo:** Desenvolvedor Back-End em Formação
-- 🧠 **Linguagens:** Python, Ruby
-- 🗄️ **Bancos de Dados:** SQLite3
-- 🔧 **Ferramentas:** Flask, FastAPI, Git, Linux
+- 🧠 **Linguagens:** Python, Ruby, JavaScript, HTML, CSS
+- 🗄️ **Bancos de Dados:** SQLite3, MySQL
+- 🔧 **Ferramentas:** Flask, FastAPI, Vue.js, Git, Linux
 
 ---
 
 - 🌱 Aprofundando conhecimentos em **arquitetura back-end** e **bancos de dados SQL**
+- 🎨 Estudando **Vue.js** e **HTML, CSS e JavaScript** para consumir e exibir os dados das minhas APIs
 
 ---
 
@@ -36,8 +37,11 @@
 ### 🔙 Back-end
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,ruby" alt="Back-end Icons"/>
 
+### 🎨 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,vue" alt="Front-end Icons"/>
+
 ### 🗃️ Database
-<img src="https://skillicons.dev/icons?i=sqlite" alt="Database Icons"/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Database Icons"/>
 
 ### 🧰 Ferramentas & Versionamento
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools Icons"/>
@@ -46,10 +50,17 @@
 
 ---
 
+## 📚 Estudando Atualmente
+
+- 🐬 **MySQL**
+- 💚 **Vue.js**
+- 🌐 **HTML, CSS e JavaScript**
+
+---
 
 ## 🎯 Foco
 
-> 🔒 **100% focado em Desenvolvimento Back-End** — construindo APIs, arquitetura limpa e sistemas.
+> 🔒 **Foco principal em Desenvolvimento Back-End** — construindo APIs, arquitetura limpa e sistemas, com noções de front-end para integrar tudo.
 
 ---
 
