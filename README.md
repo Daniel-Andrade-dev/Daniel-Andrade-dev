@@ -18,7 +18,7 @@
 ---
 
 - 🌱 Aprofundando conhecimentos em **arquitetura back-end** e **bancos de dados SQL**
-- 🎨 Estudando **Vue.js** e **HTML, CSS e JavaScript** para consumir e exibir os dados das minhas APIs
+- 🎨 Estudando **Vue.js** e **HTML, CSS e JavaScript**
 
 ---
 
@@ -52,9 +52,10 @@
 
 ## 📚 Estudando Atualmente
 
-- 🐬 **MySQL**
-- 💚 **Vue.js**
-- 🌐 **HTML, CSS e JavaScript**
+- **Python + FastAPI**
+- **MySQL**
+- **Vue.js**
+- **HTML, CSS e JavaScript**
 
 ---
 
