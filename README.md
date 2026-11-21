@@ -59,12 +59,6 @@
 
 ---
 
-## 🎯 Foco
-
-> 🔒 **Foco principal em Desenvolvimento Back-End** — construindo APIs, arquitetura limpa e sistemas, com noções de front-end para integrar tudo.
-
----
-
 ## 📫 Contato
 
 <div align="center">
