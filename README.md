@@ -11,14 +11,14 @@
 - 👤 **Nome:** Daniel Andrade Silva
 - 📍 **Localização:** Presidente Prudente-SP, Brasil 🇧🇷
 - 💼 **Objetivo:** Desenvolvedor Back-End em Formação
-- 🧠 **Linguagens:** Python, Ruby, JavaScript, HTML, CSS
+- 🧠 **Linguagens:** Python, Ruby, JavaScript, HTML
 - 🗄️ **Bancos de Dados:** SQLite3, MySQL
 - 🔧 **Ferramentas:** Flask, FastAPI, Vue.js, Git, Linux
 
 ---
 
 - 🌱 Aprofundando conhecimentos em **arquitetura back-end** e **bancos de dados SQL**
-- 🎨 Estudando **Vue.js** e **HTML, CSS e JavaScript**
+- 🎨 Estudando **Vue.js** e **HTML e JavaScript**
 
 ---
 
@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,ruby" alt="Back-end Icons"/>
 
 ### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,vue" alt="Front-end Icons"/>
+<img src="https://skillicons.dev/icons?i=html,js,vue" alt="Front-end Icons"/>
 
 ### 🗃️ Database
 <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Database Icons"/>
@@ -55,7 +55,7 @@
 - **Python + FastAPI**
 - **MySQL**
 - **Vue.js**
-- **HTML, CSS e JavaScript**
+- **HTML e JavaScript**
 
 ---
 
